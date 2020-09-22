@@ -140,7 +140,7 @@ public class UtiltyClass {<br>
 　　private final Lexicon dictionary = ･･･;<br>
 <br>
 　　private SpellChecker(･･･) {}<br>
-　　public static SpellChecker INSTTANCE = new SpellChecker(･･･;)<br>
+　　public static SpellChecker INSTTANCE = new SpellChecker(･･･);<br>
 <br>
 　　public static boolean isValid(String word) {･･･}<br>
 　　public static List＜String＞ suggestions(String typo) {･･･}<br>
